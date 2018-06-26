@@ -74,5 +74,5 @@ Fecha de entrega proyecto: 28 de Junio 2018.
 Fecha de entrega evaluación: 04 de Julio 2018
 
 Estructura de Maquetación
-![](proyecto/imagenes/maqueta1.jpg)
-![](proyecto/imagenes/maqueta2.jpg)
+![](Proyecto/imagenes/maqueta1.jpg)
+![](Proyecto/imagenes/maqueta2.jpg)
