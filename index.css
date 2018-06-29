@@ -1,6 +1,47 @@
-*{margin: 0; padding: 0;}
-html{background-color: gray;}
-body{width: 960px; height: 960px; margin: auto; background-color: red;  }
-header{
-	width: 
+
+  .container_foto{
+    background-image: url(http://www.monumentos.cl/sites/default/files/styles/slide_monumentos/public/image-monumentos/MH_00259_2008_CMN%20%281%29.JPG?itok=971apR6R);
+    background-color: #F2F293;
+    color: white;
+    text-align:center;
+  }
+ body{
+ 	background-color:  #F2F293;
+ }
+
+.quilicura{
+	position: relative;
+	margin-right: 80%;
+	padding: 100%;
+	width: 500px;
+	height: 300px;
+
+}
+.navbar-nav{
+	background-color: #79A6CD;
+	color: black;
+	position: absolute;
+}
+.d-block{
+	text-align: center;
+}
+h1{
+
+	text-align: center;
+}
+.d_block{
+    text-align: center;
+}
+.img{
+	background-color: #2B2B2C;
+}
+.log{
+	margin-left: 5px;
+	float: auto;
+}
+.card-header{
+background-color: #F38264;
+}
+.card-footer{
+background-color: #F38264;
 }

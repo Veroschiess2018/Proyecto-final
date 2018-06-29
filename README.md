@@ -76,3 +76,4 @@ Fecha de entrega evaluación: 04 de Julio 2018
 Estructura de Maquetación
 ![](Proyecto/imagenes/maqueta1.jpg)
 ![](Proyecto/imagenes/maqueta2.jpg)
+![](Proyecto/imagenes/directorio.jpg)
